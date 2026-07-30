@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "version": "0.0.2-hotfix.6",
+  "title": "个人销售助手 v0.0.2-hotfix.6",
+  "notes": "修复微信好友备注生成与验证窗口稳定性问题。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.2-hotfix.6/personal-sales-assistant-v0.0.2-hotfix.6-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.0.2-hotfix.6-licensed-customer-shell.zip",
+  "size": 166325541,
+  "sha256": "fc01dfe712aad7175ea5859de0936b577d846243e03ade7823ff42b4cdef33a6",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.2-hotfix.6"
+}
