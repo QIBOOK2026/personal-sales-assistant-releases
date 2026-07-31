@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.0.9-hotfix.2",
-  "title": "个人销售助手 v0.0.9-hotfix.2",
-  "notes": "昵称识别不到但已勾选追加手机号时，直接使用完整手机号作为备注；新增填写微信验证语开关。",
+  "version": "0.0.9-hotfix.3",
+  "title": "个人销售助手 v0.0.9-hotfix.3",
+  "notes": "新增填写微信备注开关，并彻底取消备注写入后的 OCR 核验。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.9-hotfix.2/personal-sales-assistant-v0.0.9-hotfix.2-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.0.9-hotfix.2-licensed-customer-shell.zip",
   "size": 176652852,
   "sha256": "c214b189d3fae9b7f2fb20b77a31b5c03e9b21c63f028d458f17613c917cf906",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.9-hotfix.2",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.9-hotfix.3",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.9-hotfix.2/personal-sales-assistant-v0.0.9-hotfix.2-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.0.9-hotfix.2-app-component.zip",
-    "size": 40575,
-    "sha256": "21d4509f50b8eeda532fac49b9473a080c7e19465ecfc7e1b9ee017e9dd6beea"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.9-hotfix.3/personal-sales-assistant-v0.0.9-hotfix.3-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.0.9-hotfix.3-app-component.zip",
+    "size": 44243,
+    "sha256": "ee9157022fe7aa63b5f21b17e80fd915395b14ca342c2e50a08b921e2882473b"
   }
 }
