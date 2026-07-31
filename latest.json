@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "0.0.7",
-  "title": "个人销售助手 v0.0.7",
-  "notes": "统一软件名称和版本显示，并继续支持软件内自动更新。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.7/personal-sales-assistant-v0.0.7-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.0.7-licensed-customer-shell.zip",
-  "size": 176555343,
-  "sha256": "a400e2cf9301850426246baf1087a13c92710f5a8433c3361f4b200b881f00ae",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.7"
+  "version": "0.0.8",
+  "title": "个人销售助手 v0.0.8",
+  "notes": "线索采集结果区新增客户类型和优先级下拉筛选、评分升降序排列，并统一选择与清理按钮布局。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.8/personal-sales-assistant-v0.0.8-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.0.8-licensed-customer-shell.zip",
+  "size": 176556449,
+  "sha256": "bb4314e1cf274b9872f83d5658cfb3ac3cdb9bb048bede81a4b59107e5e476c0",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.8"
 }
