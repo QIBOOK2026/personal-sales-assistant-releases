@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "version": "0.0.8",
-  "title": "个人销售助手 v0.0.8",
-  "notes": "线索采集结果区新增客户类型和优先级下拉筛选、评分升降序排列，并统一选择与清理按钮布局。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.8/personal-sales-assistant-v0.0.8-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.0.8-licensed-customer-shell.zip",
-  "size": 176556449,
-  "sha256": "bb4314e1cf274b9872f83d5658cfb3ac3cdb9bb048bede81a4b59107e5e476c0",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.8"
+  "version": "0.0.9",
+  "title": "个人销售助手 v0.0.9",
+  "notes": "修复微信备注追加手机号时的核验误报，并安装后续应用代码组件更新与失败自动回滚能力。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.9/personal-sales-assistant-v0.0.9-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.0.9-licensed-customer-shell.zip",
+  "size": 176562657,
+  "sha256": "594f57e7affa433abecc35717ae838228fb8965104879fea82b3477568230ab8",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.9"
 }
