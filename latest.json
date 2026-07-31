@@ -5,14 +5,14 @@
   "notes": "昵称识别不到但已勾选追加手机号时，直接使用完整手机号作为备注；新增填写微信验证语开关。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.9-hotfix.2/personal-sales-assistant-v0.0.9-hotfix.2-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.0.9-hotfix.2-licensed-customer-shell.zip",
-  "size": 176649276,
-  "sha256": "cd9bf336d083af8b38fcfb30410bc930fa1116c25cb053c7ed5e31740fef7b16",
+  "size": 176652852,
+  "sha256": "c214b189d3fae9b7f2fb20b77a31b5c03e9b21c63f028d458f17613c917cf906",
   "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.9-hotfix.2",
   "component": {
     "runtime_api": 1,
     "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.9-hotfix.2/personal-sales-assistant-v0.0.9-hotfix.2-app-component.zip",
     "asset_name": "personal-sales-assistant-v0.0.9-hotfix.2-app-component.zip",
-    "size": 40575,
-    "sha256": "21d4509f50b8eeda532fac49b9473a080c7e19465ecfc7e1b9ee017e9dd6beea"
+    "size": 44209,
+    "sha256": "7676b5c6f7f37dd3bd96d9ec545cffc41a9483c7eddddfd4214b327bcdf529e8"
   }
 }
