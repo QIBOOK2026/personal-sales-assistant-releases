@@ -1,11 +1,18 @@
 {
   "schema": 1,
-  "version": "0.0.9",
-  "title": "个人销售助手 v0.0.9",
-  "notes": "修复微信备注追加手机号时的核验误报，并安装后续应用代码组件更新与失败自动回滚能力。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.9/personal-sales-assistant-v0.0.9-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.0.9-licensed-customer-shell.zip",
-  "size": 176562657,
-  "sha256": "594f57e7affa433abecc35717ae838228fb8965104879fea82b3477568230ab8",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.9"
+  "version": "0.0.9-hotfix.1",
+  "title": "个人销售助手 v0.0.9-hotfix.1",
+  "notes": "修复备注输入框内完整手机号可见但仍被误判为核验失败的问题。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.9-hotfix.1/personal-sales-assistant-v0.0.9-hotfix.1-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.0.9-hotfix.1-licensed-customer-shell.zip",
+  "size": 176631558,
+  "sha256": "fd0f8c402ed62f0d3b8a89091928a478fc2ea5bd4dfad66432311e7c6b47d9ef",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.9-hotfix.1",
+  "component": {
+    "runtime_api": 1,
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.9-hotfix.1/personal-sales-assistant-v0.0.9-hotfix.1-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.0.9-hotfix.1-app-component.zip",
+    "size": 22866,
+    "sha256": "64163856058eb4656c5525c5b962d0bb9e5a72ba46ff4f75641ac1ef336548bb"
+  }
 }
