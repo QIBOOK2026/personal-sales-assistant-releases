@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.0.10",
-  "title": "个人销售助手 v0.0.10",
-  "notes": "采集结果表新增导出功能，支持导出勾选结果或当前筛选结果为 Excel/CSV。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.10/personal-sales-assistant-v0.0.10-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.0.10-licensed-customer-shell.zip",
-  "size": 176602041,
-  "sha256": "67de656be11769659bcebd15d1c98e0266b429f77dae4b48e25cefee8134b969",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.10",
+  "version": "0.0.11",
+  "title": "个人销售助手 v0.0.11",
+  "notes": "修复 v0.0.10 微信助手中“填写微信备注”选项消失的问题，并保留采集结果导出功能。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.11/personal-sales-assistant-v0.0.11-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.0.11-licensed-customer-shell.zip",
+  "size": 176647604,
+  "sha256": "77a11b6569e5a81ee0aa042d42ea92323ac3617c7a6ec07a5ec23a7f2a96200a",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.0.11",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.10/personal-sales-assistant-v0.0.10-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.0.10-app-component.zip",
-    "size": 31339,
-    "sha256": "e42ff7d086976471f31f0c50fc8b1d1320172fd42a55ef8cf3d8c11f7c4c2c0d"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.0.11/personal-sales-assistant-v0.0.11-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.0.11-app-component.zip",
+    "size": 76019,
+    "sha256": "bc44fd0c873ba572c67d84967e87f697f25dcb6982e822a3a5b1bd426adafa87"
   }
 }
