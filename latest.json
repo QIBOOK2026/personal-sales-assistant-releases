@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.1.0",
-  "title": "个人销售助手 v0.1.0",
-  "notes": "微信助手客户队列支持手动修改微信名称、称呼和状态，修改结果保存到本地并同步飞书；同时修复行业词被误判为姓氏的问题。",
+  "version": "0.1.1",
+  "title": "个人销售助手 v0.1.1",
+  "notes": "微信加好友流程增加连续搜索不到保护：前 1 至 4 位先暂存，连续第 5 位时立即停止并保持待处理，避免微信操作频繁后继续污染客户状态。本次仅发布应用代码组件。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.0/personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
   "size": 176651737,
   "sha256": "be7da743fe537babf086b09e7a1bda15c12eaf18a34d324ffeff29d867b02c1b",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.1.0",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.1.1",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.0/personal-sales-assistant-v0.1.0-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.1.0-app-component.zip",
-    "size": 81336,
-    "sha256": "3a75e5b1d80475dbf422e5996ee2dca26ebf705da92662a29ca73a28b8b684ae"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.1/personal-sales-assistant-v0.1.1-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.1.1-app-component.zip",
+    "size": 82504,
+    "sha256": "3b1910fc5d31a714e0aa7cd18ecc3992e93fd9e03f1ea9fc86762ce70cf09973"
   }
 }
