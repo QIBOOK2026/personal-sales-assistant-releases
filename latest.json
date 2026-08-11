@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.1.6",
-  "title": "个人销售助手 v0.1.6",
-  "notes": "采集结果新增“保存到飞书”按钮，支持勾选线索直接保存；飞书已有重复和本批次重复都会跳过，查重读取失败则整批停止。本次按逢十进一规则仅发布累计小组件，下一个完整包为 v0.2.0。",
+  "version": "0.1.7",
+  "title": "个人销售助手 v0.1.7",
+  "notes": "飞书同步新增微信添加状态并自动补齐旧记录；同步改为令牌复用、单次远端读取和分批新增更新，显著缩短大批量线索同步时间。本次仅发布累计应用代码组件，下一个完整包为 v0.2.0。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.0/personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
   "size": 176651737,
   "sha256": "be7da743fe537babf086b09e7a1bda15c12eaf18a34d324ffeff29d867b02c1b",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.1.6",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.1.7",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.6/personal-sales-assistant-v0.1.6-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.1.6-app-component.zip",
-    "size": 141319,
-    "sha256": "ad24d1806ed461ca1debcb594b360dbcd0753274f2d637885669b0851c98d031"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.7/personal-sales-assistant-v0.1.7-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.1.7-app-component.zip",
+    "size": 143061,
+    "sha256": "08eaeb924020a3948e16e5ab36a1e75722b861faa63275c64e42d70382d9d321"
   }
 }
