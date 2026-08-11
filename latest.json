@@ -1,18 +1,18 @@
 {
-  "schema": 1,
-  "version": "0.1.7",
-  "title": "个人销售助手 v0.1.7",
-  "notes": "飞书同步新增微信添加状态并自动补齐旧记录；同步改为令牌复用、单次远端读取和分批新增更新，显著缩短大批量线索同步时间。本次仅发布累计应用代码组件，下一个完整包为 v0.2.0。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.0/personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
-  "size": 176651737,
-  "sha256": "be7da743fe537babf086b09e7a1bda15c12eaf18a34d324ffeff29d867b02c1b",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.1.7",
-  "component": {
-    "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.7/personal-sales-assistant-v0.1.7-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.1.7-app-component.zip",
-    "size": 143061,
-    "sha256": "08eaeb924020a3948e16e5ab36a1e75722b861faa63275c64e42d70382d9d321"
-  }
+    "schema":  1,
+    "version":  "0.1.8",
+    "title":  "个人销售助手 v0.1.8",
+    "notes":  "帮助与教程新增“获取高德 API 教程”在线入口，打开指定飞书教程页面; 帮助与教程新增“软件说明书”在线入口，打开指定飞书说明书页面; 保留环境变量覆盖能力和安装包内置本地说明文件",
+    "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.0/personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
+    "asset_name":  "personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
+    "size":  176651737,
+    "sha256":  "be7da743fe537babf086b09e7a1bda15c12eaf18a34d324ffeff29d867b02c1b",
+    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.1.8",
+    "component":  {
+                      "runtime_api":  1,
+                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.8/personal-sales-assistant-v0.1.8-app-component.zip",
+                      "asset_name":  "personal-sales-assistant-v0.1.8-app-component.zip",
+                      "size":  143161,
+                      "sha256":  "23e604b4461868d8acf5d4dbfec7524c7facf3a9657f5b79e3fd50496285fa72"
+                  }
 }
