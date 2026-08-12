@@ -1,18 +1,18 @@
 {
-  "schema": 1,
-  "version": "0.2.1",
-  "title": "个人销售助手 v0.2.1",
-  "notes": "表格导入自动扫描前 30 行识别真实表头，支持免责声明在首行的工作簿；新增删除当前表功能且不删除原始文件。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.0/personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
-  "size": 176556929,
-  "sha256": "a790ae0cb7bbe51843b9a643dbed74e62e68fa8e0434fd523cae51a1b2d08818",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.1",
-  "component": {
-    "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.1/personal-sales-assistant-v0.2.1-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.2.1-app-component.zip",
-    "size": 145293,
-    "sha256": "083b2c654b2aae149104251f4c92929c3731d61af0b5dab16e72bb5b53cef279"
-  }
+    "schema":  1,
+    "version":  "0.2.1",
+    "title":  "个人销售助手 v0.2.1",
+    "notes":  "表格导入自动扫描前 30 行识别真实表头，支持免责声明在首行的工作簿；新增删除当前表功能且不删除原始文件。",
+    "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.0/personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
+    "asset_name":  "personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
+    "size":  176556929,
+    "sha256":  "a790ae0cb7bbe51843b9a643dbed74e62e68fa8e0434fd523cae51a1b2d08818",
+    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.1",
+    "component":  {
+                      "runtime_api":  1,
+                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.1/personal-sales-assistant-v0.2.1-app-component.zip",
+                      "asset_name":  "personal-sales-assistant-v0.2.1-app-component.zip",
+                      "size":  145293,
+                      "sha256":  "083b2c654b2aae149104251f4c92929c3731d61af0b5dab16e72bb5b53cef279"
+                  }
 }
