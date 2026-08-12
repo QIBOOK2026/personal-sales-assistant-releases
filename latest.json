@@ -1,18 +1,18 @@
 {
-    "schema":  1,
-    "version":  "0.1.9",
-    "title":  "个人销售助手 v0.1.9",
-    "notes":  "修复微信备注实际已填入，但因复查取字范围遗漏输入框左侧内容而误报失败的问题。,保留备注输入框坐标缓存，仅在复查不匹配时清除缓存、重新定位并重写一次。",
-    "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.0/personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
-    "asset_name":  "personal-sales-assistant-v0.1.0-licensed-customer-shell.zip",
-    "size":  176651737,
-    "sha256":  "be7da743fe537babf086b09e7a1bda15c12eaf18a34d324ffeff29d867b02c1b",
-    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.1.9",
-    "component":  {
-                      "runtime_api":  1,
-                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.1.9/personal-sales-assistant-v0.1.9-app-component.zip",
-                      "asset_name":  "personal-sales-assistant-v0.1.9-app-component.zip",
-                      "size":  143877,
-                      "sha256":  "a7a94588a68e6cca088f5dd16fb082581701b6fc6748de58fae54e836d52b07b"
-                  }
+  "schema": 1,
+  "version": "0.2.0",
+  "title": "个人销售助手 v0.2.0",
+  "notes": "采集结果表新增逐条飞书同步状态和具体查重结果；飞书查重改为仅按标准化电话号码判断，同公司不同电话可分别同步。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.0/personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
+  "size": 176556929,
+  "sha256": "a790ae0cb7bbe51843b9a643dbed74e62e68fa8e0434fd523cae51a1b2d08818",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.0",
+  "component": {
+    "runtime_api": 1,
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.0/personal-sales-assistant-v0.2.0-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.2.0-app-component.zip",
+    "size": 144540,
+    "sha256": "348efc1fad1b8f23d62b211b0de89af196efa4046a48b5d56e300cac74fa3dfb"
+  }
 }
