@@ -1,18 +1,18 @@
 {
     "schema":  1,
-    "version":  "0.2.2",
-    "title":  "个人销售助手 v0.2.2",
-    "notes":  "微信称呼优先使用客户姓名，昵称仅在客户姓名为空时回退; 微信备注支持公司简称、客户姓名、微信昵称、自定义内容及追加完整手机号; 修复采集结果和本地线索库无法直接导入微信助手的问题; 对齐微信备注区的填写备注与追加手机号选项",
+    "version":  "0.2.3",
+    "title":  "个人销售助手 v0.2.3",
+    "notes":  "修复同时填写微信验证语时备注框使用旧坐标而无法写入的问题，改为验证语处理后重新定位并只填写一次; 修复采集结果和本地线索库直接导入微信助手流程; 微信称呼优先使用客户姓名，备注支持多种格式及追加完整手机号; 对齐微信备注选项布局并保留本次累计功能",
     "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.0/personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
     "asset_name":  "personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
     "size":  176556929,
     "sha256":  "a790ae0cb7bbe51843b9a643dbed74e62e68fa8e0434fd523cae51a1b2d08818",
-    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.2",
+    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.3",
     "component":  {
                       "runtime_api":  1,
-                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.2/personal-sales-assistant-v0.2.2-app-component.zip",
-                      "asset_name":  "personal-sales-assistant-v0.2.2-app-component.zip",
-                      "size":  145257,
-                      "sha256":  "949dcbdee37fadda7b5fda34e5b6f4bc13de2769664b5fd2e65b937d4eddff37"
+                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.3/personal-sales-assistant-v0.2.3-app-component.zip",
+                      "asset_name":  "personal-sales-assistant-v0.2.3-app-component.zip",
+                      "size":  145377,
+                      "sha256":  "712836c080e0d8e03258521cfbca02d07d3561fea44b545dc232d345da60227b"
                   }
 }
