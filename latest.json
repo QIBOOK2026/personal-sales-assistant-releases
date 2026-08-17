@@ -1,18 +1,18 @@
 {
-    "schema":  1,
-    "version":  "0.2.4",
-    "title":  "个人销售助手 v0.2.4",
-    "notes":  "恢复微信助手默认称呼可编辑，无姓氏时沿用手动设置的默认称呼,修复手动修改默认称呼后队列称呼列刷新错误，并增加便携组件实际加载回归检查",
-    "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.0/personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
-    "asset_name":  "personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
-    "size":  176556929,
-    "sha256":  "a790ae0cb7bbe51843b9a643dbed74e62e68fa8e0434fd523cae51a1b2d08818",
-    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.4",
-    "component":  {
-                      "runtime_api":  1,
-                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.4/personal-sales-assistant-v0.2.4-app-component.zip",
-                      "asset_name":  "personal-sales-assistant-v0.2.4-app-component.zip",
-                      "size":  145373,
-                      "sha256":  "350f00024ece2a5004d23e060c7ec8cd07b720a9fd3e3b8e91f118465c570315"
-                  }
+  "schema": 1,
+  "version": "0.2.5",
+  "title": "个人销售助手 v0.2.5",
+  "notes": "新增 AI销售参谋贴边面板，可读取当前客户对话并生成三条候选回复。; 支持公司业务介绍与 AI 参数设置，回复可直接填入聊天输入框。; 新增默认关闭的可选自动发送开关，并加强发送按钮与微信窗口校验。; 固定加好友助手自动化设置卡片高度，避免共享主题初始化顺序导致界面压缩。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.0/personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
+  "size": 176556929,
+  "sha256": "a790ae0cb7bbe51843b9a643dbed74e62e68fa8e0434fd523cae51a1b2d08818",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.5",
+  "component": {
+    "runtime_api": 1,
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.5/personal-sales-assistant-v0.2.5-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.2.5-app-component.zip",
+    "size": 170690,
+    "sha256": "2d16d9d1022ce064b91002fd53f5f7b4bf35bd94416c2692d15ff557c2140001"
+  }
 }
