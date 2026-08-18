@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.2.5",
-  "title": "个人销售助手 v0.2.5",
-  "notes": "新增 AI销售参谋贴边面板，可读取当前客户对话并生成三条候选回复。; 支持公司业务介绍与 AI 参数设置，回复可直接填入聊天输入框。; 新增默认关闭的可选自动发送开关，并加强发送按钮与微信窗口校验。; 固定加好友助手自动化设置卡片高度，避免共享主题初始化顺序导致界面压缩。",
+  "version": "0.2.6",
+  "title": "个人销售助手 v0.2.6",
+  "notes": "AI销售参谋改为前台截图 OCR 优先读取联系人和聊天内容，UIA 仅作辅助。; UI Automation 读取失败时不再中断 OCR 结果，提升不同微信版本和电脑环境的兼容性。; 增加不含联系人姓名和聊天正文的安全诊断日志，并在识别失败时显示真实诊断原因。; 增强 OCR 输入区域回退定位，未识别到发送按钮时仍可安全填入回复，自动发送继续保持严格校验。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.0/personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
   "size": 176556929,
   "sha256": "a790ae0cb7bbe51843b9a643dbed74e62e68fa8e0434fd523cae51a1b2d08818",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.5",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.6",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.5/personal-sales-assistant-v0.2.5-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.2.5-app-component.zip",
-    "size": 170690,
-    "sha256": "2d16d9d1022ce064b91002fd53f5f7b4bf35bd94416c2692d15ff557c2140001"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.6/personal-sales-assistant-v0.2.6-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.2.6-app-component.zip",
+    "size": 171510,
+    "sha256": "94cde6b6e395f8704192a63e4298e51930f885e2ce2c227a56867ea9846845c7"
   }
 }
