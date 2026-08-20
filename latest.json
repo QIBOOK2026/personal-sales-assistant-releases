@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.2.7",
-  "title": "个人销售助手 v0.2.7",
-  "notes": "修复其他电脑填入回复时 win32ui 加载失败的问题。; 微信输入点击改用 Windows 原生 SendInput，不再依赖 pywinauto.mouse、win32ui 和系统 MFC 运行库。; 同一兼容路径覆盖销售参谋填入回复及微信标签弹窗点击。; 新增便携依赖回归检查，防止再次引入 win32ui/MFC 隐式依赖。",
+  "version": "0.2.8",
+  "title": "个人销售助手 v0.2.8",
+  "notes": "新增微信增量 OCR 自动记录，按联系人保存并支持编辑、排序和批量删除。; 新增微信聊天记录窗口与联系人管理，支持搜索联系人及删除联系人全部记录。; 新增客户长期画像和销售流程导航，明确当前行动、完成标准及不同回应下的下一步。; 新增客户总览卡片，集中查看客户阶段、状态、等级、已知信息、待确认信息和跟进动作。; 优化销售参谋生成回复与联系人切换速度，并修复聊天事实串线和无依据推断。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.0/personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.2.0-licensed-customer-shell.zip",
   "size": 176556929,
   "sha256": "a790ae0cb7bbe51843b9a643dbed74e62e68fa8e0434fd523cae51a1b2d08818",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.7",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.8",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.7/personal-sales-assistant-v0.2.7-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.2.7-app-component.zip",
-    "size": 172185,
-    "sha256": "37e129562d4e98e8d4c3c72d262172c7e442a64a238fb20808b637219e0a659d"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.8/personal-sales-assistant-v0.2.8-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.2.8-app-component.zip",
+    "size": 219714,
+    "sha256": "74abfc40235b6bf4ade02319b67d4a767aaa9343f226f51bedb0020103592eb8"
   }
 }
