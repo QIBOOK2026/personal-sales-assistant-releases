@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.2.8",
-  "title": "个人销售助手 v0.2.8",
-  "notes": "新增微信增量 OCR 自动记录，按联系人保存并支持编辑、排序和批量删除。; 新增微信聊天记录窗口与联系人管理，支持搜索联系人及删除联系人全部记录。; 新增客户长期画像和销售流程导航，明确当前行动、完成标准及不同回应下的下一步。; 新增客户总览卡片，集中查看客户阶段、状态、等级、已知信息、待确认信息和跟进动作。; 优化销售参谋生成回复与联系人切换速度，并修复聊天事实串线和无依据推断。",
+  "version": "0.2.9",
+  "title": "个人销售助手 v0.2.9",
+  "notes": "修复部分微信4.x客户端自动发送只获得焦点、没有真正触发发送的问题。; 自动发送改为微信MMUI渲染层点击与Windows原生鼠标输入双通道。; 发送前继续校验按钮属于当前微信进程，避免联系人或窗口变化时误发。; 新增不包含联系人和聊天内容的自动发送阶段诊断日志，便于客户现场定位。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.8/personal-sales-assistant-v0.2.8-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.2.8-licensed-customer-shell.zip",
   "size": 180512367,
   "sha256": "14a6e3791f6fc01bd6ab0ae0f7d9d7c9636c4263993c1c463ee6daa5b4736b0f",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.8",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.9",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.8/personal-sales-assistant-v0.2.8-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.2.8-app-component.zip",
-    "size": 219714,
-    "sha256": "74abfc40235b6bf4ade02319b67d4a767aaa9343f226f51bedb0020103592eb8"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.9/personal-sales-assistant-v0.2.9-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.2.9-app-component.zip",
+    "size": 220091,
+    "sha256": "e46e07fdc7c167424f7d986f08b932ed4ddd1220ec09a6b159c27850a500d171"
   }
 }
