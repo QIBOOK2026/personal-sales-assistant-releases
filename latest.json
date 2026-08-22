@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.3.0",
-  "title": "个人销售助手 v0.3.0",
-  "notes": "新增AI销售参谋自动跟进队列与三联系人轮询测试；修复微信4.x搜索误触输入法V模式和右侧搜一搜；增加左上角搜索框与左侧本地联系人结果双重校验；优化OCR初始化与复用。",
+  "version": "0.3.1",
+  "title": "个人销售助手 v0.3.1",
+  "notes": "正式界面隐藏轮询测试按钮和测试联系人提示。; 保留 Ctrl+Shift+F12 隐藏入口，并在真实发送前增加二次确认。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.0/personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
   "size": 176748924,
   "sha256": "39efe2a24957f27a238b4c9e47e2738f8b280e48e83127901df00948dde551f4",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.0",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.1",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.0/personal-sales-assistant-v0.3.0-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.3.0-app-component.zip",
-    "size": 229376,
-    "sha256": "9b4f13b4530275e0d762330fdb5897e7061034047fe1c3c2cef2cc0f44dfbcc8"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.1/personal-sales-assistant-v0.3.1-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.3.1-app-component.zip",
+    "size": 229490,
+    "sha256": "5a303064ee9d4e5d53115af1e6ac8bd6600663627686291cae3bb7ef8f1cde2b"
   }
 }
