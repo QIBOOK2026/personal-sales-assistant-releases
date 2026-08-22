@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.3.1",
-  "title": "个人销售助手 v0.3.1",
-  "notes": "正式界面隐藏轮询测试按钮和测试联系人提示。; 保留 Ctrl+Shift+F12 隐藏入口，并在真实发送前增加二次确认。",
+  "version": "0.3.2",
+  "title": "个人销售助手 v0.3.2",
+  "notes": "修复旧版客户完整包更新后因缺少 tkinter.font 无法启动的问题; 增强微信好友搜索框失焦时的安全重试，避免误入搜一搜",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.0/personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
   "size": 176748924,
   "sha256": "39efe2a24957f27a238b4c9e47e2738f8b280e48e83127901df00948dde551f4",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.1",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.2",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.1/personal-sales-assistant-v0.3.1-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.3.1-app-component.zip",
-    "size": 229490,
-    "sha256": "5a303064ee9d4e5d53115af1e6ac8bd6600663627686291cae3bb7ef8f1cde2b"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.2/personal-sales-assistant-v0.3.2-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.3.2-app-component.zip",
+    "size": 230044,
+    "sha256": "4c9006c99656b087bc7401b0012933d766006d810310f0d13420063e8b8e5295"
   }
 }
