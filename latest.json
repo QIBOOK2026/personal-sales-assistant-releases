@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.2.9",
-  "title": "个人销售助手 v0.2.9",
-  "notes": "修复部分微信4.x客户端自动发送只获得焦点、没有真正触发发送的问题。; 自动发送改为微信MMUI渲染层点击与Windows原生鼠标输入双通道。; 发送前继续校验按钮属于当前微信进程，避免联系人或窗口变化时误发。; 新增不包含联系人和聊天内容的自动发送阶段诊断日志，便于客户现场定位。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.8/personal-sales-assistant-v0.2.8-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.2.8-licensed-customer-shell.zip",
-  "size": 180512367,
-  "sha256": "14a6e3791f6fc01bd6ab0ae0f7d9d7c9636c4263993c1c463ee6daa5b4736b0f",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.2.9",
+  "version": "0.3.0",
+  "title": "个人销售助手 v0.3.0",
+  "notes": "新增AI销售参谋自动跟进队列与三联系人轮询测试；修复微信4.x搜索误触输入法V模式和右侧搜一搜；增加左上角搜索框与左侧本地联系人结果双重校验；优化OCR初始化与复用。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.0/personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
+  "size": 176748924,
+  "sha256": "39efe2a24957f27a238b4c9e47e2738f8b280e48e83127901df00948dde551f4",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.0",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.2.9/personal-sales-assistant-v0.2.9-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.2.9-app-component.zip",
-    "size": 220091,
-    "sha256": "e46e07fdc7c167424f7d986f08b932ed4ddd1220ec09a6b159c27850a500d171"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.0/personal-sales-assistant-v0.3.0-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.3.0-app-component.zip",
+    "size": 229376,
+    "sha256": "9b4f13b4530275e0d762330fdb5897e7061034047fe1c3c2cef2cc0f44dfbcc8"
   }
 }
