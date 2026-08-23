@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.3.2",
-  "title": "个人销售助手 v0.3.2",
-  "notes": "修复旧版客户完整包更新后因缺少 tkinter.font 无法启动的问题; 增强微信好友搜索框失焦时的安全重试，避免误入搜一搜",
+  "version": "0.3.3",
+  "title": "个人销售助手 v0.3.3",
+  "notes": "修复微信被动监听切换联系人时识别失败或误建重复客户的问题; 联系人身份改为顶部标题与左侧选中行双信号首帧确认，切换目标控制在两秒内; 完整聊天 OCR 改为后台执行，切换联系人不再被慢速 OCR 阻塞",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.0/personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
   "size": 176748924,
   "sha256": "39efe2a24957f27a238b4c9e47e2738f8b280e48e83127901df00948dde551f4",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.2",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.3",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.2/personal-sales-assistant-v0.3.2-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.3.2-app-component.zip",
-    "size": 230044,
-    "sha256": "4c9006c99656b087bc7401b0012933d766006d810310f0d13420063e8b8e5295"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.3/personal-sales-assistant-v0.3.3-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.3.3-app-component.zip",
+    "size": 236165,
+    "sha256": "b81aa6027435b4ec875bb984fe00cb89f5b26fe437b37c773f9d51795aeda507"
   }
 }
