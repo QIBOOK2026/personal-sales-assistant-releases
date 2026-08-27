@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.3.4",
-  "title": "个人销售助手 v0.3.4",
-  "notes": "AI销售参谋客户总览新增删除客户记录，可同时清理本地聊天记录、销售状态和阶段历史。; 轮询测试名单支持在销售参谋设置中自定义，并由隐藏轮询测试和搜索诊断读取最新配置。",
+  "version": "0.3.5",
+  "title": "个人销售助手 v0.3.5",
+  "notes": "采集历史支持省份、城市、关键词和扩展关键词实时搜索，并新增时间与状态筛选。; 重复采集提示显示最近一次成功采集的时间和页数，严格匹配规则保持不变。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.0/personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
   "size": 176748924,
   "sha256": "39efe2a24957f27a238b4c9e47e2738f8b280e48e83127901df00948dde551f4",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.4",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.5",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.4/personal-sales-assistant-v0.3.4-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.3.4-app-component.zip",
-    "size": 236876,
-    "sha256": "6bc287ae23235f1b9420d06d5d75d3841914105fbd6fbe807d18eab3e698ef3a"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.5/personal-sales-assistant-v0.3.5-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.3.5-app-component.zip",
+    "size": 238029,
+    "sha256": "c50d023a817057c5b53ff53c3217fa6e17336ecc497aca20a2fcca1d46eed68f"
   }
 }
