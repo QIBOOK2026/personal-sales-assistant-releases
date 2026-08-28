@@ -1,18 +1,11 @@
 {
   "schema": 1,
-  "version": "0.3.5",
-  "title": "个人销售助手 v0.3.5",
-  "notes": "采集历史支持省份、城市、关键词和扩展关键词实时搜索，并新增时间与状态筛选。; 重复采集提示显示最近一次成功采集的时间和页数，严格匹配规则保持不变。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.0/personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.3.0-licensed-customer-shell.zip",
-  "size": 176748924,
-  "sha256": "39efe2a24957f27a238b4c9e47e2738f8b280e48e83127901df00948dde551f4",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.3.5",
-  "component": {
-    "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.3.5/personal-sales-assistant-v0.3.5-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.3.5-app-component.zip",
-    "size": 238029,
-    "sha256": "c50d023a817057c5b53ff53c3217fa6e17336ecc497aca20a2fcca1d46eed68f"
-  }
+  "version": "0.4.0",
+  "title": "个人销售助手 v0.4.0",
+  "notes": "新增微信聊天数据库接入、数据库密钥提取、当前聊天与群聊分析、批量机会分析、客户档案、今日总结及界面防遮挡优化。本次使用完整包更新，保留老用户本地配置和数据。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.0/personal-sales-assistant-v0.4.0-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.4.0-licensed-customer-shell.zip",
+  "size": 205466640,
+  "sha256": "7621f891e80a8408736d62bed70ca1dbd7b82318bd0f4cce555f59f5184dac26",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.0"
 }
