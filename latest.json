@@ -1,11 +1,18 @@
 {
-  "schema": 1,
-  "version": "0.4.0",
-  "title": "个人销售助手 v0.4.0",
-  "notes": "新增微信聊天数据库接入、数据库密钥提取、当前聊天与群聊分析、批量机会分析、客户档案、今日总结及界面防遮挡优化。本次使用完整包更新，保留老用户本地配置和数据。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.0/personal-sales-assistant-v0.4.0-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.4.0-licensed-customer-shell.zip",
-  "size": 205466640,
-  "sha256": "7621f891e80a8408736d62bed70ca1dbd7b82318bd0f4cce555f59f5184dac26",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.0"
+    "schema":  1,
+    "version":  "0.4.1",
+    "title":  "个人销售助手 v0.4.1",
+    "notes":  "\u0027将销售参谋的“自动跟进”页更名为“客户跟进”\u0027,\u0027新增“今日待办分析”，分析最近7天个人聊天并保留每日总结中的未处理待办\u0027",
+    "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.0/personal-sales-assistant-v0.4.0-licensed-customer-shell.zip",
+    "asset_name":  "personal-sales-assistant-v0.4.0-licensed-customer-shell.zip",
+    "size":  205466640,
+    "sha256":  "7621f891e80a8408736d62bed70ca1dbd7b82318bd0f4cce555f59f5184dac26",
+    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.1",
+    "component":  {
+                      "runtime_api":  1,
+                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.1/personal-sales-assistant-v0.4.1-app-component.zip",
+                      "asset_name":  "personal-sales-assistant-v0.4.1-app-component.zip",
+                      "size":  279698,
+                      "sha256":  "fad22e0f4c0a4164f59eb57a5767acdc96c19a3a9d4d0db3ebb132ee0ea58ce5"
+                  }
 }
