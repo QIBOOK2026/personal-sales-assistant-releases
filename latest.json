@@ -2,7 +2,7 @@
   "schema": 1,
   "version": "0.4.3",
   "title": "个人销售助手 v0.4.3",
-  "notes": "客户总览新增“同步飞书客户信息库”，支持在新电脑恢复飞书客户中心全部客户; 恢复客户阶段、状态、等级、需求、跟进时间与资料，并保存飞书完整原始字段镜像; 同一微信ID重复同步直接更新，同名不同微信ID安全区分且不互相覆盖",
+  "notes": "客户总览新增“同步飞书客户信息库”，支持在新电脑恢复飞书客户中心全部客户; 修复旧电脑固定更新源不可用时不尝试备用地址的问题; 恢复客户资料并保存飞书完整原始字段镜像",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.2/personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
   "size": 158232836,
@@ -12,7 +12,7 @@
     "runtime_api": 1,
     "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.3/personal-sales-assistant-v0.4.3-app-component.zip",
     "asset_name": "personal-sales-assistant-v0.4.3-app-component.zip",
-    "size": 283848,
-    "sha256": "e7599b98b7cc1696699b3bba68c1cd57d3b0dd830e7a477bf524e1e8948dc687"
+    "size": 283881,
+    "sha256": "ab8fa7ac985c14e4a2f71cbd4a5bde261d647ececec91960860b0a5f618b3fee"
   }
 }
