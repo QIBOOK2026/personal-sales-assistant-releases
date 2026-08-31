@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.4.5",
-  "title": "个人销售助手 v0.4.5",
-  "notes": "修复检查更新长时间无反应：优先使用本机配置的更新源，缩短单线路超时，并在网络较慢时显示备用线路提示；在线更新包继续内置 wechat-cli 与微信密钥提取工具。",
+  "version": "0.4.6",
+  "title": "个人销售助手 v0.4.6",
+  "notes": "修复飞书客户信息库同步读取旧进程配置的问题：每次同步前强制重载当前便携版 .env，并在写入前核验实际表名为客户中心及微信用户ID字段，防止普通线索表被误导入。; 飞书设置页补齐客户中心、客户动态和微信账号 Table ID；优化大量客户档案读取，消除逐条重复查询造成的界面卡顿。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.2/personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
   "size": 158232836,
   "sha256": "e83aea61aa39469d8a8145b8a9a41812ad5a6ee210b987018962f73d2bc36b18",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.5",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.6",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.5/personal-sales-assistant-v0.4.5-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.4.5-app-component.zip",
-    "size": 22990259,
-    "sha256": "dd92c0ecca9b75c8c65e0b9cd57f51069e96b91f3b40171d6d8d6088a8c7f6b2"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.6/personal-sales-assistant-v0.4.6-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.4.6-app-component.zip",
+    "size": 22990913,
+    "sha256": "421ceeca7d82602c2ee2fa64ff88dbc89f1c0e9a1af2d7bf5dd4dcb4cff63c34"
   }
 }
