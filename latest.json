@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.4.7",
-  "title": "个人销售助手 v0.4.7",
-  "notes": "新增飞书跟进待办表及本地待办卡片，支持跨设备增量同步。; 集中管理全部飞书业务表配置，并修复客户跟进队列滚动。; 将待办状态下拉框改为明确状态菜单，修复误触发延期弹窗和页面闪烁。",
+  "version": "0.4.8",
+  "title": "个人销售助手 v0.4.8",
+  "notes": "分析当前客户、批量分析和生成回复完成后不再自动弹出客户总览。; 优化客户删除流程：局部移除卡片并清理本地聊天、画像、销售状态、阶段历史和相关待办，解决大量客户时的卡顿。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.2/personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
   "size": 158232836,
   "sha256": "e83aea61aa39469d8a8145b8a9a41812ad5a6ee210b987018962f73d2bc36b18",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.7",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.8",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.7/personal-sales-assistant-v0.4.7-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.4.7-app-component.zip",
-    "size": 23016143,
-    "sha256": "471ef6bef0bade4864ff3e3fb476d446c8e54e9e4f5e8640d819d749d5458f0a"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.8/personal-sales-assistant-v0.4.8-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.4.8-app-component.zip",
+    "size": 23016528,
+    "sha256": "b69b786a459f4b41abc181db97863f42656444e2dcc57f29628a87e8a729702e"
   }
 }
