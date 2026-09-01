@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.4.8",
-  "title": "个人销售助手 v0.4.8",
-  "notes": "分析当前客户、批量分析和生成回复完成后不再自动弹出客户总览。; 优化客户删除流程：局部移除卡片并清理本地聊天、画像、销售状态、阶段历史和相关待办，解决大量客户时的卡顿。",
+  "version": "0.4.9",
+  "title": "个人销售助手 v0.4.9",
+  "notes": "客户档案改为分批渲染：首次只加载20张客户卡片，滚动到底继续加载，已打开窗口直接复用。; 代码组件不再重复携带未变化的微信数据库工具，保留并继续使用本机或完整包中已安装的微信工具。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.2/personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
   "size": 158232836,
   "sha256": "e83aea61aa39469d8a8145b8a9a41812ad5a6ee210b987018962f73d2bc36b18",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.8",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.9",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.8/personal-sales-assistant-v0.4.8-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.4.8-app-component.zip",
-    "size": 23016528,
-    "sha256": "b69b786a459f4b41abc181db97863f42656444e2dcc57f29628a87e8a729702e"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.9/personal-sales-assistant-v0.4.9-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.4.9-app-component.zip",
+    "size": 311692,
+    "sha256": "9849ea89fe9009e2f9a9fefb87c86b21b81501d3cd671c8d8f179659e4fd3c25"
   }
 }
