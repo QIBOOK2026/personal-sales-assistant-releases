@@ -2,10 +2,10 @@
   "schema": 1,
   "version": "0.5.0",
   "title": "Salesflow v0.5.0",
-  "notes": "品牌升级为 Salesflow；新增首次使用引导、DeepSeek 快速分析/深度思考、批量分析筛选与历史结果、批量待办。",
+  "notes": "品牌升级为 Salesflow；新增首次使用引导、DeepSeek 快速分析/深度思考、批量分析筛选与历史结果、批量待办；修复旧版完整更新时无法识别启动文件的问题。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
-  "size": 210979308,
-  "sha256": "4618a249d3e1d79607adf0f08a5421977362bd33f270827ea9c3832f782b8482",
+  "size": 210349655,
+  "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
   "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.0"
 }
