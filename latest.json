@@ -1,18 +1,11 @@
 {
   "schema": 1,
-  "version": "0.4.9",
-  "title": "个人销售助手 v0.4.9",
-  "notes": "客户档案改为分批渲染：首次只加载20张客户卡片，滚动到底继续加载，已打开窗口直接复用。; 代码组件不再重复携带未变化的微信数据库工具，保留并继续使用本机或完整包中已安装的微信工具。",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.2/personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.4.2-licensed-customer-shell.zip",
-  "size": 158232836,
-  "sha256": "e83aea61aa39469d8a8145b8a9a41812ad5a6ee210b987018962f73d2bc36b18",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.4.9",
-  "component": {
-    "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.4.9/personal-sales-assistant-v0.4.9-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.4.9-app-component.zip",
-    "size": 311692,
-    "sha256": "9849ea89fe9009e2f9a9fefb87c86b21b81501d3cd671c8d8f179659e4fd3c25"
-  }
+  "version": "0.5.0",
+  "title": "Salesflow v0.5.0",
+  "notes": "品牌升级为 Salesflow；新增首次使用引导、DeepSeek 快速分析/深度思考、批量分析筛选与历史结果、批量待办。",
+  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
+  "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
+  "size": 210979308,
+  "sha256": "4618a249d3e1d79607adf0f08a5421977362bd33f270827ea9c3832f782b8482",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.0"
 }
