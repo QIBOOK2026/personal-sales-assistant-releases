@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.1",
-  "title": "Salesflow v0.5.1",
-  "notes": "修复导出客户到手机通讯录时，手机扫码后页面无内容的问题。; 首次导出时可自动添加仅限本机程序、TCP 8765 端口和本地子网的 Windows 防火墙规则，无需关闭系统防火墙。; 支持电脑使用网线、手机使用 Wi-Fi 的同一路由器场景，并新增手机连接状态提示和 VCF 备用文件保存。",
+  "version": "0.5.2",
+  "title": "Salesflow v0.5.2",
+  "notes": "修复新版设置页检测到更新后不弹出安装确认的问题; 恢复版本说明、下载进度、SHA256 校验、启动安装器和自动关闭流程",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.1",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.2",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.1/personal-sales-assistant-v0.5.1-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.1-app-component.zip",
-    "size": 543095,
-    "sha256": "40d4c26b8430c31f3a3cc04797570914da1fe067cdce0dca278a51c01983e355"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.2/personal-sales-assistant-v0.5.2-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.2-app-component.zip",
+    "size": 544156,
+    "sha256": "5bb37267a156ee9c7d43ab8b0a49a072ec94a1bb9121f0a9f3b03f232c52ea1b"
   }
 }
