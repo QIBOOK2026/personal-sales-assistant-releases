@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.4",
-  "title": "Salesflow v0.5.4",
-  "notes": "软件正常启动后自动检查更新，发现新版本时提示安装，最新版或临时联网失败时保持安静; 任务栏原生图标改为使用组件内嵌 ICO，不再被旧电脑上的默认 EXE 图标覆盖",
+  "version": "0.5.5",
+  "title": "Salesflow v0.5.5",
+  "notes": "修复部分旧电脑在升级到 0.5.4 后任务栏仍显示默认图标：任务栏身份绑定新图标哈希，并在任务栏按钮创建前后设置原生大小图标",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.4",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.5",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.4/personal-sales-assistant-v0.5.4-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.4-app-component.zip",
-    "size": 634981,
-    "sha256": "c98c79e3b13fada59ff754eb6fbdd5ec9a153f993096d0416657ee40b598c63c"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.5/personal-sales-assistant-v0.5.5-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.5-app-component.zip",
+    "size": 635194,
+    "sha256": "3ca840aab2917f373c380547df55e255a49dfe271ad70dc2a1b17a9b1949ddeb"
   }
 }
