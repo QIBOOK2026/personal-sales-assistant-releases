@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.5",
-  "title": "Salesflow v0.5.5",
-  "notes": "修复部分旧电脑在升级到 0.5.4 后任务栏仍显示默认图标：任务栏身份绑定新图标哈希，并在任务栏按钮创建前后设置原生大小图标",
+  "version": "0.5.6",
+  "title": "Salesflow v0.5.6",
+  "notes": "生成回复会结合消息时间、当前时间、客户状态和最近手动沟通理解当前语境; 新增可自定义的回复语境规则，设置页面支持滚动; 客户作战卡支持简洁记录面谈、电话等线下沟通，并同步客户状态与待办",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.5",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.6",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.5/personal-sales-assistant-v0.5.5-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.5-app-component.zip",
-    "size": 635194,
-    "sha256": "3ca840aab2917f373c380547df55e255a49dfe271ad70dc2a1b17a9b1949ddeb"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.6/personal-sales-assistant-v0.5.6-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.6-app-component.zip",
+    "size": 653348,
+    "sha256": "2ec6815e0499a18aa55fc1b59b23a35c93b3eb21a42f1834fec1f3f94db67fc1"
   }
 }
