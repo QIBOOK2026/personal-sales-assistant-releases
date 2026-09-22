@@ -1,18 +1,18 @@
 {
-  "schema": 1,
-  "version": "0.5.6",
-  "title": "Salesflow v0.5.6",
-  "notes": "生成回复会结合消息时间、当前时间、客户状态和最近手动沟通理解当前语境; 新增可自定义的回复语境规则，设置页面支持滚动; 客户作战卡支持简洁记录面谈、电话等线下沟通，并同步客户状态与待办",
-  "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
-  "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
-  "size": 210349655,
-  "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.6",
-  "component": {
-    "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.6/personal-sales-assistant-v0.5.6-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.6-app-component.zip",
-    "size": 653348,
-    "sha256": "2ec6815e0499a18aa55fc1b59b23a35c93b3eb21a42f1834fec1f3f94db67fc1"
-  }
+    "schema":  1,
+    "version":  "0.5.7",
+    "title":  "Salesflow v0.5.7",
+    "notes":  "修复微信好友助手从飞书读取线索超时：服务端筛选未完成线索并对读取超时重试",
+    "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
+    "asset_name":  "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
+    "size":  210349655,
+    "sha256":  "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
+    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.7",
+    "component":  {
+                      "runtime_api":  1,
+                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.7/personal-sales-assistant-v0.5.7-app-component.zip",
+                      "asset_name":  "personal-sales-assistant-v0.5.7-app-component.zip",
+                      "size":  653893,
+                      "sha256":  "674bf08e5fd0b0478a23616b16ba77aefe1212abe397edd1afaf9fd018654c87"
+                  }
 }
