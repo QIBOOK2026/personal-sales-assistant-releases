@@ -1,18 +1,18 @@
 {
     "schema":  1,
-    "version":  "0.5.8",
-    "title":  "Salesflow v0.5.8",
-    "notes":  "修复AI销售参谋生成回复遇到新聊天时中断，并改进微信窗口与输入框定位及填入恢复",
+    "version":  "0.5.9",
+    "title":  "Salesflow v0.5.9",
+    "notes":  "修正 AI 回复对销售和客户发言及图片消息的理解；修正自动发送前的会话识别误拦截与失败提示",
     "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
     "asset_name":  "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
     "size":  210349655,
     "sha256":  "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.8",
+    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.9",
     "component":  {
                       "runtime_api":  1,
-                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.8/personal-sales-assistant-v0.5.8-app-component.zip",
-                      "asset_name":  "personal-sales-assistant-v0.5.8-app-component.zip",
-                      "size":  654944,
-                      "sha256":  "990c5ae08e6a97ecd9fa8833b31377fa5614e6228fed3487496e892524983a5f"
+                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.9/personal-sales-assistant-v0.5.9-app-component.zip",
+                      "asset_name":  "personal-sales-assistant-v0.5.9-app-component.zip",
+                      "size":  655614,
+                      "sha256":  "667070aae66c55bae29dc4ac9339ae0c9709fadd7e2b616c27fd42a538ba0589"
                   }
 }
