@@ -1,18 +1,18 @@
 {
     "schema":  1,
-    "version":  "0.5.11",
-    "title":  "Salesflow v0.5.11",
-    "notes":  "分析聊天与生成回复显示真实处理阶段、动态等待标记和已用时间；等待 AI 较久时明确显示仍在等待",
+    "version":  "0.5.12",
+    "title":  "Salesflow v0.5.12",
+    "notes":  "修复 AI 销售参谋贴边时微信输入框误判，按窗口相对固定区域定位输入框并独立核对联系人",
     "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
     "asset_name":  "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
     "size":  210349655,
     "sha256":  "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.11",
+    "release_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.12",
     "component":  {
                       "runtime_api":  1,
-                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.11/personal-sales-assistant-v0.5.11-app-component.zip",
-                      "asset_name":  "personal-sales-assistant-v0.5.11-app-component.zip",
-                      "size":  657769,
-                      "sha256":  "9a961200562a6f95d9f826e24df638e3ae46e33293c2c9dedf001ddcadfd1df6"
+                      "download_url":  "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.12/personal-sales-assistant-v0.5.12-app-component.zip",
+                      "asset_name":  "personal-sales-assistant-v0.5.12-app-component.zip",
+                      "size":  690045,
+                      "sha256":  "71cd86528f1d8289b97406cb0ac412cac7a154d1b032abfa4a7f70b4a49e1419"
                   }
 }
