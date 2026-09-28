@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.13",
-  "title": "Salesflow v0.5.13",
-  "notes": "修复微信好友助手误启动第二个微信：最小化的已登录主窗口按恢复后尺寸识别；未找到主窗口时停止并记录诊断，阻止对登录小窗口点击。",
+  "version": "0.5.14",
+  "title": "Salesflow v0.5.14",
+  "notes": "同步本机正式包的累计代码更新；今日销售总结可一次复制客户名称与内容，客户选择增加全不选。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.13",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.14",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.13/personal-sales-assistant-v0.5.13-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.13-app-component.zip",
-    "size": 690422,
-    "sha256": "71573e5d11af517196c7abfecb53ddb018a239a84ee04e04c6c26bd1d5297d21"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.14/personal-sales-assistant-v0.5.14-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.14-app-component.zip",
+    "size": 696550,
+    "sha256": "6264caa925d23564c7db56690c77f500abde83843f719de147698a7e760b8fb5"
   }
 }
