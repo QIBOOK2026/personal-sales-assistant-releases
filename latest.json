@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.16",
-  "title": "Salesflow v0.5.16",
-  "notes": "新增自动跟进：为各项待办生成回复，逐条确认后自动搜索客户并发送；支持单条重新生成且保留其他回复；今日建议完成或暂缓后不再自动补入；补充地图采集和 DeepSeek API 教程，修正教程链接并恢复地图采集页布局。",
+  "version": "0.5.17",
+  "title": "Salesflow v0.5.17",
+  "notes": "修复旧版 MAP_API_GUIDE_URL 配置覆盖新版地图申请教程的问题：从旧版升级后，首次向导和设置中的地图教程均打开正确的飞书文档；保留用户自行配置的其他教程地址。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.16",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.17",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.16/personal-sales-assistant-v0.5.16-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.16-app-component.zip",
-    "size": 707988,
-    "sha256": "b65ca2f36615670860b727ea4d9edf3a4cad7d60049e30a350985bf1ef56dd6f"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.17/personal-sales-assistant-v0.5.17-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.17-app-component.zip",
+    "size": 708156,
+    "sha256": "f8dd5bc8512278932e95cc9116bbb6272371be7315154e783186303748063b93"
   }
 }
