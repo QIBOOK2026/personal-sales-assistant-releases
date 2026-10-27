@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.17",
-  "title": "Salesflow v0.5.17",
-  "notes": "修复旧版 MAP_API_GUIDE_URL 配置覆盖新版地图申请教程的问题：从旧版升级后，首次向导和设置中的地图教程均打开正确的飞书文档；保留用户自行配置的其他教程地址。",
+  "version": "0.5.18",
+  "title": "Salesflow v0.5.18",
+  "notes": "修复通讯录表格图片识别，按行保留姓名、电话和地区，无公司名称也可导入。; 同一联系人的多个号码完整保留；姓名缺失和号码异常会提示核对原图。; 保留微信数据库运行组件，避免更新后缺少微信连接工具。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.17",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.18",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.17/personal-sales-assistant-v0.5.17-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.17-app-component.zip",
-    "size": 708156,
-    "sha256": "f8dd5bc8512278932e95cc9116bbb6272371be7315154e783186303748063b93"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.18/personal-sales-assistant-v0.5.18-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.18-app-component.zip",
+    "size": 22087575,
+    "sha256": "28cf64abbc6c172e88c6f3c2198a8879000c71bdb30c986b62cff7fa64957eef"
   }
 }
