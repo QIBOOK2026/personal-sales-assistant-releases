@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.18",
-  "title": "Salesflow v0.5.18",
-  "notes": "修复通讯录表格图片识别，按行保留姓名、电话和地区，无公司名称也可导入。; 同一联系人的多个号码完整保留；姓名缺失和号码异常会提示核对原图。; 保留微信数据库运行组件，避免更新后缺少微信连接工具。",
+  "version": "0.5.21",
+  "title": "Salesflow v0.5.21",
+  "notes": "个聊托管支持新消息置顶、待回复队列和处理状态。; 转人工前发送礼貌提示，并提供待人工桌面提醒。; 完善微信账号隔离、接待安全和本地使用体验。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.18",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.21",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.18/personal-sales-assistant-v0.5.18-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.18-app-component.zip",
-    "size": 22087575,
-    "sha256": "28cf64abbc6c172e88c6f3c2198a8879000c71bdb30c986b62cff7fa64957eef"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.21/personal-sales-assistant-v0.5.21-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.21-app-component.zip",
+    "size": 22150090,
+    "sha256": "beaa1ce2ae57113c9f61ba20e04b83b58293e33ee3f95326a6c8ab9a25c8a95c"
   }
 }
