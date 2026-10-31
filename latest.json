@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.22",
-  "title": "Salesflow v0.5.22",
-  "notes": "AI接待需要人工时继续回复，并保留待人工提醒；人工接管后暂停该会话。; 优化AI接待的微信回复表达，准确说明自动操作条件。",
+  "version": "0.5.23",
+  "title": "Salesflow v0.5.23",
+  "notes": "修复“待人工·AI接待”会话点击恢复托管失败的问题。; 恢复托管时清除旧待人工提醒，只接待恢复后的新消息，不补发旧消息。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.22",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.23",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.22/personal-sales-assistant-v0.5.22-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.22-app-component.zip",
-    "size": 22175391,
-    "sha256": "fad5aa4b66cf098391eced896d61fd02caa4e2b2569fab6f5cb9b59270d8b79e"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.23/personal-sales-assistant-v0.5.23-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.23-app-component.zip",
+    "size": 22175459,
+    "sha256": "6be6a1095c4724aeb6b87ff30007b6baa319c83359a1a0839a098cf4fc9a90fb"
   }
 }
