@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.24",
-  "title": "Salesflow v0.5.24",
-  "notes": "优化地图采集地区选择，支持城市换行展示及批量选择。; 恢复宽松、普通、严格过滤模式，并记住上次选择。; 修复 AI 接待受历史转人工信息和微信拍一拍事件干扰而重复转人工的问题。",
+  "version": "0.5.25",
+  "title": "Salesflow v0.5.25",
+  "notes": "优化批量唤醒的发送节奏与窗口位置恢复; 支持无本地聊天记录的好友，发送结果待核实时暂停批次; 批量唤醒不再核对聊天标题，发送期间请勿操作微信",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.24",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.25",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.24/personal-sales-assistant-v0.5.24-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.24-app-component.zip",
-    "size": 22180573,
-    "sha256": "bee53c3f0d21f5359eb568c2dcb61eb86af2af79eb5f00d76414da480781d6ff"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.25/personal-sales-assistant-v0.5.25-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.25-app-component.zip",
+    "size": 22185140,
+    "sha256": "21d6ca8704dbc308f9f1ddf178596f6eaa82a3f83ece84ae3ac8375243e108c5"
   }
 }
