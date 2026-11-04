@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "version": "0.5.32",
-  "title": "Salesflow v0.5.32",
-  "notes": "优化微信好友助手的权限设置与识别，支持单字昵称和准确备注提示。; 改进页面布局、下拉操作、停止行为及必要的操作提醒。",
+  "version": "0.5.33",
+  "title": "Salesflow v0.5.33",
+  "notes": "调整好友备注选项，支持保留微信默认昵称并追加手机号。; 检测到已有好友验证窗口时停止，避免沿用未关闭的窗口。; 默认昵称追加手机号及窗口切换仍需在真实微信中人工确认。",
   "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.0/personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "asset_name": "personal-sales-assistant-v0.5.0-licensed-customer-shell.zip",
   "size": 210349655,
   "sha256": "1ccce25f3e5263f5e51970f06441ca1a18f010367813bb0cd9deabcb2e46ea57",
-  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.32",
+  "release_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/tag/v0.5.33",
   "component": {
     "runtime_api": 1,
-    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.32/personal-sales-assistant-v0.5.32-app-component.zip",
-    "asset_name": "personal-sales-assistant-v0.5.32-app-component.zip",
-    "size": 22189526,
-    "sha256": "80aa1017bcdac0d5c76b02aa8164821a969f6210bdcece4403df5ea3943ebb9f"
+    "download_url": "https://github.com/QIBOOK2026/personal-sales-assistant-releases/releases/download/v0.5.33/personal-sales-assistant-v0.5.33-app-component.zip",
+    "asset_name": "personal-sales-assistant-v0.5.33-app-component.zip",
+    "size": 22190038,
+    "sha256": "b0a623269d1922c7fe18c3ba4c216e9fe0b142986a61ddafef01bf57b9c0cc25"
   }
 }
